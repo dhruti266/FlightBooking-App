@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="2130F16Asn2_Parekh_Dhruti.jnlp">
+  <information>
+    <title>2130F16Asn2_Parekh_Dhruti</title>
+    <vendor>Dhruti</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="2130F16Asn2_Parekh_Dhruti.jar" size="13830" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="2130F16Asn2_Parekh_Dhruti" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="pkg2130f16asn2_parekh_dhruti.Dhruti_Main"  name="2130F16Asn2_Parekh_Dhruti" />
+  <update check="always"/>
+</jnlp>
